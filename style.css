@@ -6,8 +6,11 @@ nav{
 body{
     margin: 0;
     padding: 0;
+    display: flex;
 }
+    
+    
 img{
-    width: 100px;
-    height: 10px;
+    width: 30px;
+    height: 30px;
 }
