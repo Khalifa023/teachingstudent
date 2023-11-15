@@ -1,0 +1,13 @@
+nav{
+    width: 11000px;
+    height: 50px;
+    background-color: red;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100px;
+    height: 10px;
+}
